@@ -1,4 +1,4 @@
-name: Runs BDD Automated UI Tests
+name: Runs Magento Automated UI Tests
 
 on:
   workflow_dispatch:
