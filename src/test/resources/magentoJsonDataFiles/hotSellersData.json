@@ -1,0 +1,10 @@
+{
+  "TitlePage" : {
+    "HotSellersTitle" : "Hot Sellers"
+  },
+
+  "HotSellersProducts" : {
+    "HotSeller1" : "Radiant Tee",
+    "HotSeller2" : "Breathe-Easy Tank"
+  }
+}

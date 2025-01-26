@@ -1,0 +1,29 @@
+{
+  "CreateAccountDataForm" : {
+    "ValidData": {
+      "FirstName" : "ebrah213",
+      "LastName": "testing321",
+      "EmailAddress": "EbrahimSalem1.TA1@gmail.com",
+      "Password": "Automation1@71717171",
+      "ConfirmPassword": "Automation1@71717171"
+    }
+  },
+
+  "registerAccountSuccessMessage" : {
+     "ConfirmationMessage" : "Thank you for registering with Main Website Store."
+  },
+
+
+  "CreateAccount1DataForm" : {
+    "ValidData": {
+      "FirstName" : "Ibrahim0101",
+      "LastName": "testing0101",
+      "EmailAddress": "Auto1.testing01@gmail.com",
+      "Password": "TestAutomation564@463",
+      "ConfirmPassword": "TestAutomation564@463"
+    }
+  },
+  "register1AccountSuccessMessage" : {
+    "ConfirmationMessage" : "Thank you for registering with Main Website Store."
+  }
+}
